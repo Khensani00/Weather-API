@@ -1,37 +1,32 @@
-Weather Analysis Project
+# Weather Analysis Project
 
-Project Overview
+## Project Overview
 
 This project is focused on analyzing weather data using Python in a Jupyter Notebook. It includes data processing, visualization, and insights into weather trends.
 
 
-Requirements
+ ## Requirements
 
 To run this project, ensure you have the following dependencies installed:
 
-Python 3.x
-
-Jupyter Notebook
-
-Pandas
-
-Matplotlib
-
-Seaborn
-
-NumPy
+- Python 3.x
+- Jupyter Notebook
+- Pandas
+- Matplotlib
+- Seaborn
+- NumPy
 
 
-Usage
+## Usage
 
 Open the Jupyter Notebook:
 
 jupyter notebook Weather.ipynb
 
-Run each cell sequentially to analyze the weather data.
+Run the file to analyze the weather data.
 
 
-Results
+## Results
 
 The analysis will provide insights into:
 
